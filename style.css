@@ -1,7 +1,7 @@
 /*-----------
  font poppins
  --------------- */
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 
 /*----------------
 carousel-item part 
@@ -14,3 +14,14 @@ carousel-item part
    #font-three-color{
        color: yellow;
    }
+  .item-text{
+      display: flex;
+      justify-content: center;
+      margin-top: 100px;
+      margin-bottom: 100px;
+  }
+  
+  #Choose-plan{
+     
+      
+  }
