@@ -1,0 +1,16 @@
+/*-----------
+ font poppins
+ --------------- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/*----------------
+carousel-item part 
+---------------------  */
+.carousel-item img{ width: 1740px;
+    height: 684px;}
+   #font-color{
+       color: rgb(241, 237, 1);
+   }
+   #font-three-color{
+       color: yellow;
+   }
