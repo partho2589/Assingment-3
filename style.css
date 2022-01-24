@@ -20,6 +20,7 @@ carousel-item part
       margin-top: 100px;
       margin-bottom: 100px;
   }
+  
  /* box three style */
  
  #hilite-card{
@@ -28,3 +29,19 @@ carousel-item part
      border-radius: 2rem;
     padding-top: 50px;
  }
+
+/* footer  */
+footer{
+    background-color: #0B0D17;
+}
+.fa-apple{
+
+    font-size: 60px;}
+   #button-color{
+       background-color: #000000;
+     
+   }
+   .fa-google-play{
+       font-size: 60px;
+       color: white;
+   }
