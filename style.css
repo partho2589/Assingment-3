@@ -20,8 +20,11 @@ carousel-item part
       margin-top: 100px;
       margin-bottom: 100px;
   }
-  
-  #Choose-plan{
-     
-      
-  }
+ /* box three style */
+ 
+ #hilite-card{
+     background-color:rgb(255, 71, 157) ;
+     padding: 10px;
+     border-radius: 2rem;
+    padding-top: 50px;
+ }
